@@ -8,7 +8,7 @@
 👀 Please visit the repositories section to explore my projects!⬆️  
 
 
-🚀 **Data Analyst | Data Scientist | Data Consultant | Business Intelligence | Machine Learning Enthusiast**
+🚀 **Data Analyst | Data Scientist | Data Consultant | Business Intelligence | AI Enthusiast**
 📍 United States | [LinkedIn](https://www.linkedin.com/in/harsh-bhattad)
 
 ---
