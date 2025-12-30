@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Harsh Bhattad
-## 📊 I explain decisions with numbers! 📈  
+## I explain decisions with numbers!   
 
 > **"Without data, you're just another person with an opinion."** – W. Edwards Deming  
 
